@@ -1,22 +1,6 @@
-# Cordova AppVersion plugin
+# Cordova cpu info plugin
 
-Reads the version of your app from the target build settings.
-
-## Installation
-
-### With cordova-cli
-
-If you are using [cordova-cli](https://github.com/apache/cordova-cli), install
-with:
-
-    cordova plugin add cordova-plugin-app-version
-
-### With plugman
-
-With a plain [plugman](https://github.com/apache/cordova-plugman), you should be
-able to install with something like:
-
-    plugman --platform <ios|android> --project <directory> --plugin https://github.com/whiteoctober/cordova-plugin-app-version.git
+Reads the cpu info of your mobile.
 
 ### Manually in iOS
 
